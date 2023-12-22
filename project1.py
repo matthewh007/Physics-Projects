@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/14z5_0xjwEQQnsVAGvrUhKN_RtVAb-Fuy
 
 ---
-# **The Journey of a BasketBall**
+# **Exploring Basketball Trajectory: Impact of Quadratic Drag Force**
 
 ---
 
